@@ -1,0 +1,58 @@
+{
+  "profile": {
+    "name": "Sanyogita Shukla",
+    "tagline": "Poet, playwright and storyteller weaving words into art.",
+    "linkedin": "https://www.linkedin.com/in/sanyogita-shukla-b5309a296/",
+    "github": "https://github.com/sanyogita123shukla"
+  },
+  "contact": {
+    "heading": "Connect with me",
+    "message": "Have something to share, collaborate on, or just want to say hello? I'd love to hear from you.",
+    "email": "sanyogitashukla384@gmail.com"
+  },
+  "books": [
+    {
+      "id": "aurora-to-starry-nights",
+      "title": "Aurora to Starry Nights",
+      "subtitle": "English Poetry",
+      "coverColor": "#C084FC",
+      "chapters": []
+    },
+    {
+      "id": "late-night-walks",
+      "title": "Those Late Night Walks And Conversations",
+      "subtitle": "Plays · work in progress",
+      "coverColor": "#C084FC",
+      "chapters": [
+        {
+          "id": "play-1",
+          "title": "A road to clarity",
+          "content": "Chlo aaj shaam ko ek lambi walk par chlte hai\nMilne ka plan banate hai\n4 baje shaam ko mil sakte ho\nTum aate hue dikhe mujhe main thi vahaan.. par hamesha ki tarha tumhara intezaar kr rahi thi\nDoor se tumhari aankhon mein ek jhijhak thi\nTum aaye main gale milaane ko badhi aur tum haath milaane ko\nAwkward ho gaya maine bola\nTumne bhi muskura diya\nHamne bhi chlna shuru krdiya\nKyun kiya pata nahi.. par shyd manzil pata thi\nEk gehri sadak jo yun hi seedhi chali jaa rahi thi\nHamare beech vo 1 feet ki doori saaf batla rahi thi ki..  tumhare aankhon ki jhijhak ka kya matlab tha\nTumhari vo chuppi\nTumhara vo nazrein churana\nTumhara vo kuch bahane banana\nAaj pata nahi mujhe vo 1ghanta bahut lamba laga\nHar ek pal bahut mehenga pad raha tha\nWalk khtm hui\nVo gale lagane badha\nMaine bhi haath aage badhaya\nFir awkwardness..\nPar is baar meri taraf se acceptance bhi thi\nMaine kahan tumhe jaana chaiye andhera ho raha hai\nUsne bhi jaate jaate poocha\nAur tum,\nMaine kahaan main toh hamesha ki tarha intezaar karungi\nPehle tumhare jaldi aane ka..\nAb tumhare vapas laut aane ka."
+        },
+        {
+          "id": "play-2",
+          "title": "From Sitting Beside to Falling in Love",
+          "content": "From sitting next to each other,\nTo going to the library together.\nFrom sitting in front of each other,\nTo sitting beside and resting on your shoulder.\n\nFrom watching you say you love wildflowers,\nTo plucking them and wearing them for hours.\nFrom your nonstop talks about GPUs,\nTo you teasing me softly with your shoes.\n\nFrom our random, unplanned dates,\nTo your hints with that double-decker bus song mention\nAnd my hints through those \"non-veg question\nAll those moments, my heart still fits.\n\nI was happy when you weren't here,\nBut I'm happier now that you're near.\nIt's because of you — your pure heart,\nThe way you never tried to own any part.\n\nYou let me be free, like a bird in the sky,\nYet I keep coming back, I don't know why.\nOh, speaking of birds, I still recall,\nUs watching bats behind the hostel\n\nFrom spotting our favorite couples at night,\nEvery little memory glows so true,\nBecause each one begins with you.\n\nYou took me to the lake for that serene view,\nBut you know what my favourite view is?\nIt's you.\n\nFrom two souls chasing their dreams apart,\nTo two hearts cheering for each other's start.\nI love everything about you,\nEvery smile, every word, everything you do.\n\nWe confessed once and then chose \"just friends,\"\nBut my feelings don't seem to end.\nI looked at you too deeply to be just friends\nSo here's my question, before this poem ends:\n\nCan I call you my boyfriend… from now on, till the end"
+        },
+        {
+          "id": "play-3",
+          "title": "Haan chaand ne mujhse sawaal kar hi liya..",
+          "content": "Aaj chaand ne hamse sawaal kr hi liya..\nAhaan,hamse mera mtlb hai main khud akele aur mujhme shaamil tum..\n\nKhair chodo..\n\nTo main kahaan thi, haan\nKi aaj jab meri chaand se mulakaat hui,\n\nAur uske jaane ka vakht ho gaya\nMera mtlb hai apni mohabbat mein ek aur raat guzaar kar,\nJab suraj ka agaaz hone laga,subha ki roshni aankhein roshan krne lagi\n\nTo chaand ne  mujhse pooch hi liya..\nKi apne chaand par itna kyun itraate ho\nMaine bhi bahut akadkr, ithlakar aur kuch sharmakar keh hi diya, kyunki mera chaand bedaag hai.\n\nVo bhi kahaan maanne vaala tha\nUsne fir pooch liya ki main toh har shaam ko aate hi dhalne lagta hu\n\nYe kaisa ishq kar baithi tum,\n\nMaine bhi muskuraakar keh hi diya..\nKisi se dilkashi toh kisi ka uns kahaan poora hota hai..\nHar dhalti sham,andheri raat ka ek savera hota hai\n\nHaan aaj chaand ne meri kasak bhari muskaan dekhkr mujhse ek sawaal kr hi liya..."
+        }
+      ]
+    },
+    {
+      "id": "main",
+      "title": "Main",
+      "subtitle": "Hindi Writings",
+      "coverColor": "#C084FC",
+      "chapters": [
+        {
+          "id": "intro",
+          "title": "Coming Soon",
+          "content": "This collection is coming soon."
+        }
+      ]
+    }
+  ]
+}
